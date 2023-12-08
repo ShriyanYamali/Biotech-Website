@@ -1,2 +1,2 @@
-# Biotech-Website
-Website for Biotech Pathway at Newark Charter School. 
+# Biotech Website
+A website for Biotech Pathway at Newark Charter School. 
